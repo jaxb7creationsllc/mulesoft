@@ -15,6 +15,4 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 		</http:listener>
 		<set-payload value='#["hello world"]' doc:name="Set Payload" doc:id="468754d6-3c72-406a-903e-d324806df152" />
 	</flow>
-	<flow name="jaxb7-testFlow1" doc:id="52a4d167-a1aa-404c-88ce-0745dc5af5d8" >
-	</flow>
 </mule>
